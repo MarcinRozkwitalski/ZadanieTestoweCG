@@ -1,0 +1,4 @@
+WSAD - move camera round
+Q/E - rotate camera by 90 degrees (only works if camera points to some object)
+Left Click on Button - select or deselect character
+Left Click on Map - send selected character(s) to that point
